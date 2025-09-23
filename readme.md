@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="images/logo.png" alt="Logo Trek Organizer" width="420" />
+  <img src="docs/images/logo.png" alt="Logo Trek Organizer" width="420" />
 </p>
 
 <h1 align="center">⛰️ Trek Organizer ⛰️</h1>
