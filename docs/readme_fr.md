@@ -25,19 +25,19 @@
 - Page d’accueil centrale donnant accès à tous les modules.  
 - Vue synthétique pour suivre l’état de préparation d’une sortie.  
 
-![](/home/mike/Documents/backpack/docs/images/dashboard.png)
+![](/docs/images/dashboard.png)
 
 ---
 
 ### 🧰 Matériel & sacs à dos
 - Créez un **catalogue de matériel personnel**.
 
-![](/home/mike/Documents/backpack/docs/images/backpack1.png)
+![](/docs/images/backpack1.png)
 
 - Ajoutez votre équipent pièce par pièce : marque, modèle, poids, volume, prix, lieu d'achat, catégorie.
 - Retrouvez facilement vos articles grace à la barre de recherche et aux filtres (dormir, manger, vêtements, hygiène, équipement).  
 
-![](/home/mike/Documents/backpack/docs/images/backpackNewItem.png)
+![](/docs/images/backpackNewItem.png)
 
 - Composez plusieurs **sacs à dos types** à partir de ces objets :  
   - ex. sac pour un **long GR**,  
@@ -45,11 +45,11 @@
   - sac pour une **sortie escalade**,  
   - sac pour une **itinérance vélo**. 
 
-![](/home/mike/Documents/backpack/docs/images/backpackNewBackpack.png)
+![](/docs/images/backpackNewBackpack.png)
 
 - Chaque sac calcule automatiquement le **poids total** et le **volume**, ce qui facilite la préparation en fonction du type de sortie prévu.
 
-![](/home/mike/Documents/backpack/docs/images/backpackDetails.png)
+![](/docs/images/backpackDetails.png)
 
 Les filtres permettents d'affciher **le sac le plus adapté à la sortie prévue**. Par exemple: sortie de deux jours avec nuit en refuge en été ou sortie de cinq jours avec bivouac et escalade.
 
@@ -61,9 +61,9 @@ Les filtres permettents d'affciher **le sac le plus adapté à la sortie prévue
 - Gérez vos propres fichiers GPX.  
 - Visualisez les itinéraires sur une **carte interactive** (fullscreen, possibilité d'ativer, désactiver la trace GPX)
 
-![](/home/mike/Documents/backpack/docs/images/map.png)
+![](/docs/images/map.png)
 
-![](/home/mike/Documents/backpack/docs/images/mapCommun.png)
+![](/docs/images/mapCommun.png)
 
 Accédez à une bibliothèque de fichiers **GPX partagés** par la communauté.
 
@@ -74,25 +74,25 @@ Accédez à une bibliothèque de fichiers **GPX partagés** par la communauté.
 - Géocodage via **Google Maps**.  
 - Prévisions fiables via **Open-Meteo** (quotidiennes & temps réel).
 
-![](/home/mike/Documents/backpack/docs/images/meteo.png)
+![](/docs/images/meteo.png)
 
-![](/home/mike/Documents/backpack/docs/images/meteoDetails.png)
+![](/docs/images/meteoDetails.png)
 
 ---
 
 ### 📰 Actualités
 - Flux d’actus outdoor.  
 
-![](/home/mike/Documents/backpack/docs/images/news.png)
+![](/docs/images/news.png)
 
 ---
 
 ### 💬 Forum
 - Un espace simple pour garder des notes, partager des idées ou préparer une sortie avec d’autres.
 
-![](/home/mike/Documents/backpack/docs/images/forum.png)
+![](/docs/images/forum.png)
 
-![](/home/mike/Documents/backpack/docs/images/forumDetail.png)
+![](/docs/images/forumDetail.png)
 
 ---
 
@@ -102,9 +102,9 @@ Accédez à une bibliothèque de fichiers **GPX partagés** par la communauté.
 - Enregistrez des **transactions** (montant, type, utilisateur, budget).  
 - Partage des **frais** entre participants.
 
-![](/home/mike/Documents/backpack/docs/images/Budget.png)
+![](/docs/images/Budget.png)
 
-![](/home/mike/Documents/backpack/docs/images/budgetDetail.png)
+![](/docs/images/budgetDetail.png)
 
 ---
 
