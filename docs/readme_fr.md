@@ -7,7 +7,7 @@
 [![Google Maps](https://img.shields.io/badge/API-Google%20Maps-blue.svg)](https://developers.google.com/maps/documentation)[![Open-Meteo](https://img.shields.io/badge/API-Open%20Meteo-0A84FF.svg)](https://open-meteo.com/)[![SimplePie](https://img.shields.io/badge/RSS-SimplePie-00BFFF.svg)](https://simplepie.org/)
 ![Status](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow.svg)
 
-🌍 Langues disponibles : [Français](readme_fr.md) | [English](readme.md)
+🌍 Langues disponibles : [Français](readme_fr.md) | [English](../readme.md)
 
 
 <h1 align="center">⛰️ Trek Organizer ⛰️</h1>
