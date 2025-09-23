@@ -7,7 +7,7 @@
 [![Google Maps](https://img.shields.io/badge/API-Google%20Maps-blue.svg)](https://developers.google.com/maps/documentation)[![Open-Meteo](https://img.shields.io/badge/API-Open%20Meteo-0A84FF.svg)](https://open-meteo.com/)[![SimplePie](https://img.shields.io/badge/RSS-SimplePie-00BFFF.svg)](https://simplepie.org/)
 ![Status](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow.svg)
 
-🌍 Available languages: [English](readme.md) | [Français](readme_fr.md)
+🌍 Available languages: [English](readme.md) | [Français](/docs/readme_fr.md)
 
 
 
@@ -31,7 +31,7 @@
 - Central home page giving access to all modules.  
 - Synthetic view to track the preparation status of an outing.  
 
-![](/home/mike/Documents/backpack/docs/images/dashboard.png)
+![](/docs/images/dashboard.png)
 
 ---
 
@@ -39,12 +39,12 @@
 
 - Create a **personal gear catalog**.
 
-![](/home/mike/Documents/backpack/docs/images/backpack1.png)
+![](/docs/images/backpack1.png)
 
 - Add your equipment item by item: brand, model, weight, volume, price, place of purchase, category.  
 - Easily find your items thanks to the search bar and filters (sleep, eat, clothes, hygiene, equipment).  
 
-![](/home/mike/Documents/backpack/docs/images/backpackNewItem.png)
+![](docs/images/backpackNewItem.png)
 
 - Compose several **types of backpacks** from these items:  
   - e.g. backpack for a **long GR**,  
@@ -52,11 +52,11 @@
   - backpack for a **climbing outing**,  
   - backpack for a **cycling trip**.  
 
-![](/home/mike/Documents/backpack/docs/images/backpackNewBackpack.png)
+![](/docs/images/backpackNewBackpack.png)
 
 - Each backpack automatically calculates the **total weight** and the **volume**, which makes preparation easier depending on the planned outing.  
 
-![](/home/mike/Documents/backpack/docs/images/backpackDetails.png)
+![](/docs/images/backpackDetails.png)
 
 Filters allow you to display **the backpack best suited to the planned outing**. For example: a two-day trip with a night in a hut in summer or a five-day trip with bivouac and climbing.  
 
@@ -69,9 +69,9 @@ Filters allow you to display **the backpack best suited to the planned outing**.
 - Manage your own GPX files.  
 - View itineraries on an **interactive map** (fullscreen, ability to enable/disable GPX track).  
 
-![](/home/mike/Documents/backpack/docs/images/map.png)
+![](/docs/images/map.png)
 
-![](/home/mike/Documents/backpack/docs/images/mapCommun.png)
+![](/docs/images/mapCommun.png)
 
 Access a library of **GPX files shared** by the community.  
 
@@ -83,9 +83,9 @@ Access a library of **GPX files shared** by the community.
 - Geocoding via **Google Maps**.  
 - Reliable forecasts via **Open-Meteo** (daily & real time).  
 
-![](/home/mike/Documents/backpack/docs/images/meteo.png)
+![](/docs/images/meteo.png)
 
-![](/home/mike/Documents/backpack/docs/images/meteoDetails.png)
+![](/docs/images/meteoDetails.png)
 
 ---
 
@@ -93,7 +93,7 @@ Access a library of **GPX files shared** by the community.
 
 - Outdoor news feed.  
 
-![](/home/mike/Documents/backpack/docs/images/news.png)
+![](/docs/images/news.png)
 
 ---
 
@@ -101,9 +101,9 @@ Access a library of **GPX files shared** by the community.
 
 - A simple space to keep notes, share ideas or prepare an outing with others.  
 
-![](/home/mike/Documents/backpack/docs/images/forum.png)
+![](/docs/images/forum.png)
 
-![](/home/mike/Documents/backpack/docs/images/forumDetail.png)
+![](/docs/images/forumDetail.png)
 
 ---
 
@@ -114,9 +114,9 @@ Access a library of **GPX files shared** by the community.
 - Record **transactions** (amount, type, user, budget).  
 - Share **expenses** among participants.  
 
-![](/home/mike/Documents/backpack/docs/images/Budget.png)
+![](/docs/images/Budget.png)
 
-![](/home/mike/Documents/backpack/docs/images/budgetDetail.png)
+![](/docs/images/budgetDetail.png)
 
 ---
 
