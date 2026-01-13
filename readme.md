@@ -9,7 +9,7 @@
 
 ## ⚠️ Tech Migration Disclaimer
 
-> > [!IMPORTANT]This project is currently undergoing a major architectural migration to align with modern industry standards and AI integration requirements.
+> > This project is currently undergoing a major architectural migration to align with modern industry standards and AI integration requirements.
 >
 > - **Current Stack:** Laravel 10 (Blade, Eloquent, MySQL).
 > - **Future Stack (In Progress):** **Next.js 15** (App Router), **TypeScript**, **Tailwind CSS**, and **Prisma ORM**. This shift aims to improve real-time capabilities, type safety, and seamless integration with AI SDKs.
@@ -158,8 +158,8 @@ These tags are designed for "white zones" (areas without cellular coverage), cre
 
 The project aims to evolve from a management tool into an intelligent assistant and a scientific data provider.
 
-> > [!NOTE]
-> > **AI Study Phase:** The concepts outlined below represent the long-term vision for the project. I am currently in the study phase regarding Artificial Intelligence technologies. These features and their implementation details will likely evolve significantly as I deepen my knowledge in this field during my upcoming training.
+> 
+> **AI Study Phase:** The concepts outlined below represent the long-term vision for the project. I am currently in the study phase regarding Artificial Intelligence technologies. These features and their implementation details will likely evolve significantly as I deepen my knowledge in this field during my upcoming training.
 
 ### 1. Edge AI (TinyML)
 * **Fall Detection:** Running lightweight neural networks directly on the ESP32 microcontroller to distinguish between normal hiking movements and accidental falls, triggering automatic alerts.
