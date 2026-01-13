@@ -130,6 +130,7 @@ En transformant chaque randonneur en station de détection mobile, nous visons �
 
 - **Cartographie des micro-climats :** Collecte de données de température, d'humidité et de pression à partir de milliers de points sur les sentiers afin de fournir des données haute résolution aux chercheurs climatologues.
 - **Détection d'anomalies :** Utilisation du machine learning (ex: Isolation Forests) pour nettoyer les données de capteurs bruitées et identifier les anomalies environnementales comme les départs de feux de forêt.
+- **Surveillance bioacoustique :** Implémentation de modèles de classification audio légers pour identifier les espèces d'oiseaux en temps réel. En raison de la bande passante limitée du LoRa, l'ESP32 effectue l'inférence localement et ne transmet que les métadonnées (ID de l'espèce, score de confiance et position), contribuant ainsi aux bases de données mondiales sur la biodiversité.
 
 ### 3. Analyse prédictive
 

@@ -169,6 +169,7 @@ The project aims to evolve from a management tool into an intelligent assistant 
 By turning every trekker into a mobile sensor station, we aim to bridge the data gap in remote areas.
 * **Micro-Climate Mapping:** Collecting temperature, humidity, and pressure data from thousands of points on trails to provide high-resolution data for climate researchers.
 * **Anomaly Detection:** Using machine learning (e.g., Isolation Forests) to clean noisy sensor data and identify environmental anomalies like early-stage wildfires.
+* **Bioacoustic Monitoring:** Implementing lightweight audio classification models to identify bird species in real-time. Due to LoRa's limited bandwidth, the ESP32 performs on-device inference and only transmits the metadata (Species ID, confidence score, and location), contributing to global biodiversity databases.
 
 ### 3. Predictive Analytics
 * **Personalized ETA:** An AI engine that learns from a user's real-world pace across different terrains to predict arrival times more accurately than standard calculators.
